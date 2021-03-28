@@ -1,3 +1,3 @@
 # deutsches-programm
-* erst.c
+* hallo.c
    * Hallo Welt!
